@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="비와가라사데"
+        android:icon="@android:drawable/ic_menu_agenda"
+        />
+    <item
+        android:id="@+id/item2"
+        android:title="밖에 비와"
+        android:icon="@android:drawable/ic_menu_crop"
+        />
+    <item
+        android:id="@+id/item3"
+        android:title="슼자소서써야돼"
+        android:icon="@android:drawable/ic_menu_always_landscape_portrait"
+        />
+    <item
+        android:id="@+id/item4"
+        android:title="졸리다"
+        android:icon="@android:drawable/ic_menu_add"
+        />
+</menu>
